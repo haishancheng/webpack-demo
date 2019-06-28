@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{5:function(o,e,n){"use strict";n.r(e),console.log("动态导入成一个单独的chunk（print.bundle.js)。懒加载执行，点击按钮是才加载执行本文件"),e.default=()=>{console.log('Button Clicked: Here\'s "some text"!')}}}]);

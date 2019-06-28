@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "webfont";
+  src: url("font/webfont.woff2") format("woff2"), url("font/webfont.woff") format("woff");
+}
+
+.hello {
+  color: pink;
+  font-family: "webfont";
+}
+
+.icon {
+  width: 50px;
+}
+.large-icon {
+  width: 200px;
+}
